@@ -1,0 +1,9 @@
+to create the above data analysis on COVID-19 the following datasets were required
+covid_vaccine_statewise.csv
+covid_19_india.csv
+StatewiseTestingDetails.csv
+frontlineworkers (2).csv
+vaccinewastage.csv
+
+these datasets contained the information on statewise vaccine distribution, no. of cases reported and deaths in INDIA,no. of tests being conducted, no. of frontline workers vaccinated
+and information on vaccine wastage .
